@@ -1,4 +1,4 @@
-# 🔌 Connecting a Prebuilt MCP Server: Weather-mcp-server to MCP Client: Claude (Local)
+# 🔌 Connecting a Prebuilt MCP Server: Weather-mcp-server (Local MCP Server) to MCP Client: Claude 
 
 A step-by-step guide to setting up the MCP Weather Server (TypeScript) and connecting it to Claude Desktop.
 
