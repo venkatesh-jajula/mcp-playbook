@@ -1,4 +1,4 @@
-<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/5d66b10e-1f2a-48c6-be62-792ac5f85b88" /># 🔌 Connecting a Prebuilt MCP Server: Weather-mcp-server to MCP Client: Claude (Local)
+# 🔌 Connecting a Prebuilt MCP Server: Weather-mcp-server to MCP Client: Claude (Local)
 
 A step-by-step guide to setting up the MCP Weather Server (TypeScript) and connecting it to Claude Desktop.
 
@@ -83,6 +83,6 @@ weather-server-typescript/
 └── tsconfig.json
 ```
 
-## Final Output
+## Final Output : LLM Application using MCP server and its tools
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/80fbbb65-5e77-4842-b896-38c0988cd767" />
